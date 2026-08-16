@@ -12,6 +12,12 @@
 
 ---
 
+## Live Site
+
+**GitHub Pages (temporary)**: [ghwmelite-dotcom.github.io/briie](https://ghwmelite-dotcom.github.io/briie)
+
+---
+
 ## The Flywheel
 
 ```
@@ -84,6 +90,7 @@ npm run dev
 
 ## Links
 
+- **Live Site**: [ghwmelite-dotcom.github.io/briie](https://ghwmelite-dotcom.github.io/briie)
 - **Brilla Prep**: [brillaprep.org](https://brillaprep.org)
 - **Twitter**: [@brillaprep](https://twitter.com/brillaprep)
 - **Telegram**: [t.me/briietoken](https://t.me/briietoken)
